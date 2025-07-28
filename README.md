@@ -1,2 +1,0 @@
-# Calculator
-classic digital calculator
